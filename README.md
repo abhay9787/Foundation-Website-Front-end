@@ -31,12 +31,29 @@ This repository contains the front-end code for a foundation website, built usin
 
 
 ### Mobile :
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+#### Home Page :
+![526shots_so](https://github.com/abhay9787/Foundation-Website-Front-end/assets/109941627/5e23d382-2da1-4bdc-acb1-13023163241e)
+
+
+#### Section Page :
+
+![837shots_so](https://github.com/abhay9787/Foundation-Website-Front-end/assets/109941627/018fef0e-3a17-4b3b-b4ed-c5854851092f)
+
+#### What We Do Page :
+![681shots_so](https://github.com/abhay9787/Foundation-Website-Front-end/assets/109941627/07e3c5ff-0f40-4c26-a28a-afd12fd8909d)
+
+
+#### Form Page :
+![720shots_so](https://github.com/abhay9787/Foundation-Website-Front-end/assets/109941627/5071245c-f0a3-4ffb-89e6-2d6ce2d1d05d)
+
 ## Used By
 
 This project is used by the following companie:
 
-''' About Life Foundation '''
+``` text
+About Life Foundation 
+```
 
 ## Getting Started:
 
