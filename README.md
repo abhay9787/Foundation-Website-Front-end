@@ -37,7 +37,7 @@ To get started with this repository, simply clone it and open the index.html fil
 This repository only contains the front-end code for the website. If you're looking for the back-end code or other related resources, please check out our other repositories.
 
 ## License
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) .
+This project is licensed under the [MIT License](LICENSE) .
 
 
 
