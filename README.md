@@ -49,7 +49,7 @@ This repository contains the front-end code for a foundation website, built usin
 
 ## Used By
 
-This project is used by the following companie:
+This project is used by the following company :
 
 ``` text
 About Life Foundation 
